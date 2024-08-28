@@ -6,12 +6,10 @@
 
 - [Project Overview](#project-overview)
 - [Features](#features)
-- [Installation](#installation)
 - [Tech Stack](#tech-stack)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## Project Overview
 
@@ -22,7 +20,11 @@ Aurora Browser is crafted for individuals who value simplicity and productivity.
 - **Distraction-Free**: No unnecessary buttons, toolbars, or ads. Just pure browsing.
 - **Minimalistic Design**: A clean and simple interface designed to keep you focused.
 - **Lightweight**: Efficient and quick, using minimal system resources.
-- **Customizable**: Basic settings allow you to tailor the browser to your needs without overloading you with options. 
+- **Customizable**: Basic settings allow you to tailor the browser to your needs without overloading you with options.
+
+### Tech Stack
+- Python 3.8 & above
+- PyQt5 Library
 
 ### Prerequisites
 
